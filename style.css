@@ -1,0 +1,17 @@
+.btn-success
+{
+    margin-top: 20px;
+}
+
+.btn-warning
+{
+    
+font-size: 25px;
+}
+
+canvas
+{
+    margin-top: 60px;
+    border-radius: 10px;
+    border: 3px solid blue;
+}
